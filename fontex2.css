@@ -1,0 +1,66 @@
+@charset "utf-8";
+body {
+    font-family: '굴림', '돋움', '나눔고딕', sans-serif;
+}
+#box1 {
+    background-color: rgb(209, 208, 208);
+    text-align: center;
+}
+h1 {
+    background-color: black;
+    color: #fff;
+    font-size: 40px;
+}
+#link1 {
+    font-size: 15px;
+    color: rgb(99, 99, 99);
+}
+.link2:link {
+    font-size: 20px;
+    background-color:  rgb(117, 20, 20);
+    color: #fff;
+    text-decoration: line-through;
+}
+#txt1 {
+    font-size: 14px;
+    color: red;
+}
+.link3:link {
+    color: green;
+}
+#link3 { 
+    text-align: center;
+}
+#txt2 {
+    background-color: green;
+    color: #fff;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+}
+#img02 {
+    text-indent: 50px;
+}
+#img02txt {
+    text-indent: 50px;
+}
+#txt3 {
+    background-color: green;
+    color: #fff;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+}
+.txt4 { 
+    background-color: orange;
+}
+.txt5 {
+    background-color: orange;
+}
+#txt6 {
+    font-weight: bold;
+}
+#txt7 {
+    font-size: 15px;
+    color: red;
+}
